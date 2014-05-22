@@ -1,0 +1,1 @@
+This is a project that I authored and give my students in Intro to Java.  I provide the core packages, while they write their own classes to extend already existing objects.
