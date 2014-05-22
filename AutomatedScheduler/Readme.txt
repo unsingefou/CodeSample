@@ -1,0 +1,1 @@
+These scripts are part of an automated scheduling utility that utilizes Google forms and spreadsheets.  I wrote these scripts while I was first learning how to code and include them to show where I have begun.  As you look over the other samples, you will see that my skills have evolved.

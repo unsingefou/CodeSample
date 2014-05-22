@@ -1,0 +1,96 @@
+.nav{
+	display:table;
+	width:100%;
+	font-family: 'Open Sans', sans-serif;
+	height: 100px;
+	background-color:#F5F5F5;
+}
+.navBar{
+	margin: 0px auto;
+	display: table;
+	width:90%;
+	//max-width: 1024;
+	height:inherit;
+}
+.left{
+	display: inline-table;
+	color: #231f18;
+	float: left;
+	margin-left: 65px;
+	height: inherit;
+}
+
+.iamLabel{
+	display: table-cell;
+	vertical-align: middle;
+	margin-top: 40px;
+}
+.iamButton{
+	cursor:pointer;
+	display: table-cell;
+	vertical-align: middle;
+	text-align:center;
+	//float:left;
+	background-color:#3399ff;
+	border-radius: 4px;
+	width: 200px;
+	height: 25px;
+}
+.iam{
+	width: 45;
+	float:left;
+}
+#iamText{
+	//display: table-cell;
+	display:inline;
+	vertical-align: middle;
+	text-align:center;
+	text-decoration:none;
+	color:#FFF;
+	width:inherit;
+	height:inherit;
+}
+#refresh{
+	display:inline-block;
+	float:right;
+	margin-right:10px;
+	height:20px;
+	width:20px;	
+}
+#refresh:active{
+	-webkit-animation:spin 2s;
+	animation:spin 2s;	
+}
+
+.name{
+	display: table-cell;
+	text-align:center;
+	vertical-align: middle;
+	height:inherit;
+}
+.right{
+	text-transform: uppercase;
+	font-size: 18px;
+	display: table;
+	height: inherit;
+	float: right;
+	margin-right: 65px;
+}
+
+.right a {
+	text-decoration:none;
+	min-width: 120px;
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+}
+.current{
+	color:#231f18;
+	font-weight:600;
+}
+.notCurrent{
+	color:#231f18;
+}
+.notCurrent:hover{
+	font-weight:600;
+}

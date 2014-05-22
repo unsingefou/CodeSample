@@ -1,0 +1,1 @@
+These samples are from an app that will be published early summer 2014.  They demonstrate inheritance and the object oriented approach.
