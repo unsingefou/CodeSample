@@ -1,1 +1,0 @@
-These sample files from my personal website. I wrote all the code by hand and built it off of the Symphony open source CMS.
